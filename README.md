@@ -1,1 +1,1 @@
-# atcoder_c-
+# c++で解いたatcoderのコード
